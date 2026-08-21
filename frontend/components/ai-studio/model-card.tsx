@@ -1,0 +1,1 @@
+export default function ModelCard(){return <div>AI Studio</div>}

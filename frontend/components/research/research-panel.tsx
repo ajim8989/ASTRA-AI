@@ -1,0 +1,1 @@
+export default function ResearchPanel(){return <div>Research</div>}

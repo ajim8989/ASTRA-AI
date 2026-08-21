@@ -1,0 +1,1 @@
+export function highlight(code:string,lang='text'){return {code,lang};}

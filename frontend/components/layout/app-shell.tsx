@@ -1,0 +1,1 @@
+export default function AppShell({children}:any){return <div>{children}</div>}

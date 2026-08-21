@@ -1,0 +1,1 @@
+export const permissions={admin:['*'],user:['read']}; export const can=(role:string,action:string)=>permissions[role as keyof typeof permissions]?.includes('*')||permissions[role as keyof typeof permissions]?.includes(action);

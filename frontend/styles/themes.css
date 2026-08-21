@@ -1,0 +1,8 @@
+.theme-dark{
+  --background:#09090b;
+  --foreground:#fafafa;
+}
+.theme-light{
+  --background:#ffffff;
+  --foreground:#18181b;
+}

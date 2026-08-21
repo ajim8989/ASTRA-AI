@@ -1,0 +1,39 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+build/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Java / Maven
+target/
+*.class
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+
+# Temporary files
+*.tmp
+*.temp

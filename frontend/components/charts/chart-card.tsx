@@ -1,0 +1,1 @@
+export default function ChartCard(){return <div>Chart</div>}

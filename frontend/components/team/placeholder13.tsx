@@ -1,0 +1,1 @@
+export default function Placeholder13(){return <div>Placeholder 13</div>}

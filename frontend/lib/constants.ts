@@ -1,0 +1,1 @@
+export const APP_NAME='ASTRA AI'; export const API_BASE='/api';
